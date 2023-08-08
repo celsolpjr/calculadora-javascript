@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(103, 179, 179);
+}
+
+.calculator {
+    background-color: white;
+    width: 500px;
+    margin: 4em auto;
+    padding: 2em;
+}
+
+.calculator h1 {
+    font-size: 42px;
+    text-align: center;
+}
+
+.calculator table {
+    max-width: 400px;
+    margin: 4em auto;
+}
+
+button, input {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+input {
+    height: 2em;
+    font-size: 24px;
+    border-radius: 4px;
+    padding: 1em;
+    text-align: right;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+}
+
+
+
+
+
+
+
